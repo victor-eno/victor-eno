@@ -1,8 +1,13 @@
--  Hi, I’m Victor Eno
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome to My Github Profile!
+
+- I am a programmer in the wild learning and creating
+
+# I write
+- Go, Elixir, Scala, Javascript, Java, Haskell, and Ocaml
+
+# Gist Blog
+
+
 
 <!---
 victor-eno/victor-eno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
