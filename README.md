@@ -2,6 +2,8 @@
 
 - I am a programmer in the wild learning and creating
 
+[![Twitter Badge](https://img.shields.io/badge/-@vic_magnifico-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vic_magnifico)](https://twitter.com/vic_magnifico)
+
 
 # I write
 [![My Skills](https://skillicons.dev/icons?i=go,elixir,haskell,ocaml,scala,js)](https://skillicons.dev)
