@@ -1,6 +1,6 @@
 # Vic 'Magnifico' Eno
 
-- Welcome to my github profile. This a slice of my code as a programmer. It is a fairly simple information about my work, projects, and other various wild bits I find interesting and choose as adventure.
+- Hi! Welcome to my github profile. This is a slice of my code as a programmer. It is a fairly simple information about my work, projects, and other various wild bits I find interesting and choose as adventure.
 
 
 - Twitter: @vic_magnifico
