@@ -3,7 +3,8 @@
 - Hi! Welcome to my github profile. This is a slice of my code as a programmer. It is a fairly simple information about my work, projects, and other various wild bits I find interesting and choose as adventure.
 
 
-- Twitter: @vic_magnifico
+- Twitter: [@vic_magnifico](https://www.twitter.com/vic_magnifico)
+- SIte: [www.victoreno.com](https://victoreno.com.ng)
 - Email: victor_eno345@protonmail.com
 
 # Gist Blog
