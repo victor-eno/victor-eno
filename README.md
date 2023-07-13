@@ -11,7 +11,7 @@
 
 
 # Gist Blog: Short Notes & Examples
-[Slow Meditation: On Understanding The Nature And Behaviour of JavaScrip Data Types](https://gist.github.com/victor-eno/18cc6a4352dd1e433ffa65f1ce178b7a)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)[Slow Meditation: On Understanding The Nature And Behaviour of JavaScrip Data Types](https://gist.github.com/victor-eno/18cc6a4352dd1e433ffa65f1ce178b7a)
 
 
 
