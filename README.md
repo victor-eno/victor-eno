@@ -4,7 +4,7 @@
 
 
 - Twitter: [@vic_magnifico](https://www.twitter.com/vic_magnifico)
-- SIte: [www.victoreno.com](https://victoreno.com.ng)
+- SIte: [www.victoreno.com](https://www.victoreno.com.ng)
 - Email: victor_eno345@protonmail.com
 
 # Gist Blog
